@@ -1,4 +1,4 @@
-#Project 6: Workflow for automated classification of sMRI images of psychiatric disorders using neural networks
+# Project 6: Workflow for automated classification of sMRI images of psychiatric disorders using neural networks
 
 
 **Abstract**
